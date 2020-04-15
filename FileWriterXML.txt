@@ -1,0 +1,23 @@
+<ValCurs name="Official exchange rate" Date="13.02.2018">
+  <Valute ID="47">
+    <CharCode>EUR</CharCode>
+    <Value>20.46</Value>
+    <Nominal>1</Nominal>
+    <NumCode>978</NumCode>
+    <Name>Euro</Name>
+  </Valute>
+  <Valute ID="48">
+    <CharCode>EUR</CharCode>
+    <Value>20.35</Value>
+    <Nominal>1</Nominal>
+    <NumCode>977</NumCode>
+    <Name>Euro</Name>
+  </Valute>
+  <Valute ID="49">
+    <CharCode>EUR</CharCode>
+    <Value>20.78</Value>
+    <Nominal>1</Nominal>
+    <NumCode>976</NumCode>
+    <Name>Euro</Name>
+  </Valute>
+</ValCurs>
